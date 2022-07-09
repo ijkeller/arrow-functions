@@ -197,6 +197,6 @@ joe.scopeArrow();
 // 1. What is "this" when joe.scope() is invoked?
 // the constructed object
 // 2. What is "this" when joe.scopeArrow() is invoked?
-// Window
+// Window 
 // 3. Explain why "this" is different when an arrow function is used.
 // constructors don't work with arrow functions
